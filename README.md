@@ -1,5 +1,5 @@
 # DogBreeds
-This is the combined version of the app DogBreeds. 
+This is the combined version of the app DogBreeds with minor changes to the dashboard layout. 
 
 ## About DogBreeds
 DogBreeds is an application that provides basic information about dog breeds and helps you identify your dog's breed. It also has a simple user interface for easy navigation.
